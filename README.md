@@ -50,7 +50,7 @@ Good luck!
     ```
 3. Install the dependencies
     ```sh
-    npm install
+    npm ci
     ```
 
 ## Scripts
